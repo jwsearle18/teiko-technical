@@ -30,7 +30,7 @@ python cell_count_analysis.py
 
 This project is licensed under the MIT License.
 
-### Answers to questions after running analysis:
+## Answers to questions after running analysis:
 
 2b. 
 Based on the statistical tests:
