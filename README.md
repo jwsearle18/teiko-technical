@@ -6,8 +6,9 @@ This Python program processes cell count data from melanoma samples, computes re
 
 1. Install the required dependencies:
 
+```
 pip install -r requirements.txt
-
+```
 
 2. Prepare your data:
    - Place the **cell-count.csv** file in the `data/` directory.
@@ -16,7 +17,9 @@ pip install -r requirements.txt
 
 1. Run the Python script:
 
+```
 python cell_count_analysis.py
+```
 
 2. Outputs:
    - A CSV file (`output_cell_counts.csv`) containing the relative frequencies and cell counts.
